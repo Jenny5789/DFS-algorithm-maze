@@ -1,4 +1,4 @@
-# DFS Algorithm Maze &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><small><small>2026.06</small></small></small>
+# DFS Algorithm Maze &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><sub>2026.06</sub></sup>
 
 Python과 Flet으로 만든 DFS(깊이 우선 탐색) 미로 시각화 앱.
 
