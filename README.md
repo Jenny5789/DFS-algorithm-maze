@@ -8,6 +8,7 @@ Python과 Flet으로 만든 DFS(깊이 우선 탐색) 미로 시각화 앱.
 ![Flet](https://img.shields.io/badge/Flet-0.80+-02569B?style=for-the-badge)
 
 <img src="images/screenshot_maze_during.png" width="420" alt="탐색 중">
+
 ## 핵심 코드
 
 ### 스택 ADT
